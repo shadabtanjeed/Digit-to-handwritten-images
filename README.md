@@ -16,6 +16,11 @@ This repository contains a **Streamlit web application** that generates handwrit
 
 ---
 
+## Screenshot
+![Image](https://github.com/user-attachments/assets/34ab3599-07d1-4f59-b1ea-d370b52ff752)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
