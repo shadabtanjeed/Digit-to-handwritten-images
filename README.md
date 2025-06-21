@@ -59,11 +59,11 @@ streamlit run app.py
 ## Repository Structure
 
 ```
-├── app.py                 # Streamlit web app
-├── cvae_mnist.pth         # Trained PyTorch CVAE model weights
-├── requirements.txt       # Python dependencies
-├── README.md              # This file
-└── Digit_to_images.ipynb.py          # Model training script
+├── app.py                     # Streamlit web app
+├── cvae_mnist.pth             # Trained PyTorch CVAE model weights
+├── requirements.txt           # Python dependencies
+├── README.md                  # This file
+└── Digit_to_images.ipynb.py   # Model training script
 ```
 
 ---
